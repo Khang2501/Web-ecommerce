@@ -12,7 +12,8 @@ Functions of the web admin: See product details, add products to the cart, buy p
   Install the project: npm install
 - Step 3:
   Run the project: npm start
-  ###Technologies and packages used in the project:
+
+###Technologies and packages used in the project:
 
 - socket.io-client: a library that enables real-time, bidirectional and event-based communication between the browser and the server.
 - Axios: is a Promise-based HTTP client library.
